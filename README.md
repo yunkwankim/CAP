@@ -17,6 +17,7 @@ The statistical and cosine similarity-based features were aggregated and were tr
 # ETC
 Numpy & Pandas & Scikit  
 
-  The Numpy package is freely available at https://pypi.org/project/numpy/.
-  The Pandas package is freely available at https://pypi.org/project/pandas/.
-  The scikit package is freely available at https://scikit-learn.org/stable/.
+  The Numpy package is freely available at https://pypi.org/project/numpy/.  
+  
+  The Pandas package is freely available at https://pypi.org/project/pandas/.  
+    The scikit package is freely available at https://scikit-learn.org/stable/.
