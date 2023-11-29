@@ -1,7 +1,6 @@
 # Source code for the In-Hospital Cardiac Arrest Prediction
 
-This project contains the scripts associated to the manuscript "Explainable AI Warning Model Using Ensemble Approach for In-Hospital Cardiac Arrest Prediction: A Retrospective Cohort Study".
-
+This project contains the scripts associated to the manuscript "Explainable AI Warning Model Using Ensemble Approach for In-Hospital Cardiac Arrest Prediction: A Retrospective Cohort Study".  
 
 If you wish to use this source code, please cite the "Journal of Medical Internet Research (JMIR)" journal below.
 
@@ -16,8 +15,8 @@ The vital signs including heart rate, temperature, systolic blood pressure (BP),
 The statistical and cosine similarity-based features were aggregated and were trained using LGBM.
 
 # ETC
-Numpy & Pandas & Scikit
+Numpy & Pandas & Scikit  
 
-The Numpy package is freely available at https://pypi.org/project/numpy/.
-The Pandas package is freely available at https://pypi.org/project/pandas/.
-The scikit package is freely available at https://scikit-learn.org/stable/.
+  The Numpy package is freely available at https://pypi.org/project/numpy/.
+  The Pandas package is freely available at https://pypi.org/project/pandas/.
+  The scikit package is freely available at https://scikit-learn.org/stable/.
