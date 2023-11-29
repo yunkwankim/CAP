@@ -1,7 +1,8 @@
 # Source code for the In-Hospital Cardiac Arrest Prediction
 
 This project contains the scripts associated to the manuscript "Explainable AI Warning Model Using Ensemble Approach for In-Hospital Cardiac Arrest Prediction: A Retrospective Cohort Study".
-/
+
+
 If you wish to use this source code, please cite the "Journal of Medical Internet Research (JMIR)" journal below.
 
 - Programming Language: Python
